@@ -1,6 +1,6 @@
 import { Box } from "@chakra-ui/react";
 import { NextPage } from "next";
-import Layout from "../components/Layout/Layout";
+import Layout from "../components/Layout/";
 
 const IndexPage: NextPage = () => {
   return (
